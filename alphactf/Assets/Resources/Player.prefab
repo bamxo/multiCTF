@@ -529,10 +529,6 @@ MonoBehaviour:
   ground:
     serializedVersion: 2
     m_Bits: 1024
-  playerProfile:
-    username: 
-    level: 0
-    xp: 0
   playerUsername: {fileID: 3298875782268498108}
   slideAmount: 0.75
   crouchAmount: 0.5
